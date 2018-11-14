@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "2018.2.2 game kit 2d",
-"dataUrl": "https://github.com/pickettd/test-unity-2d-kit/blob/gh-pages/Build/b7a668971ddeb6059f4d988aa48c534d.unityweb?raw=true",
-"wasmCodeUrl": "https://github.com/pickettd/test-unity-2d-kit/blob/gh-pages/Build/5707529e391853634e8246e9c1e71950.unityweb?raw=true",
-"wasmFrameworkUrl": "https://github.com/pickettd/test-unity-2d-kit/blob/gh-pages/Build/8b77764afb335f540e8b0a7f5628645a.unityweb?raw=true",
+"dataUrl": "b7a668971ddeb6059f4d988aa48c534d.unityweb?raw=true",
+"wasmCodeUrl": "5707529e391853634e8246e9c1e71950.unityweb?raw=true",
+"wasmFrameworkUrl": "8b77764afb335f540e8b0a7f5628645a.unityweb?raw=true",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
