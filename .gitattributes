@@ -1,6 +1,4 @@
 Build/web.data.unityweb filter=lfs diff=lfs merge=lfs -text
 Build/8b77764afb335f540e8b0a7f5628645a.unityweb filter=lfs diff=lfs merge=lfs -text
-Build/f0dc044a0416d5aae188e6b0e9967a19.json filter=lfs diff=lfs merge=lfs -text
-Build/04cfd823429f9d23bbb0a65451607432.js filter=lfs diff=lfs merge=lfs -text
 Build/5707529e391853634e8246e9c1e71950.unityweb filter=lfs diff=lfs merge=lfs -text
 Build/6555b3a092b216a295ad9ea4aa9adbd3.unityweb filter=lfs diff=lfs merge=lfs -text
