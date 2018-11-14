@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2018.2.2 game kit 2d",
+"dataUrl": "b7a668971ddeb6059f4d988aa48c534d.unityweb",
+"wasmCodeUrl": "5707529e391853634e8246e9c1e71950.unityweb",
+"wasmFrameworkUrl": "8b77764afb335f540e8b0a7f5628645a.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
